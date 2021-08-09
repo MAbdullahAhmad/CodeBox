@@ -11,8 +11,8 @@ Following are Boxes:
 
 PHP Box Includes following units:
 
-* ```php_api```: A Sample PHP API than can be used for:
-  1. A dummy back-end API
-  2. Building APIs (copy, paste, change confs)
+* ```php_api```: A Sample PHP API than can be used to:
+  1. Create a dummy back-end API
+  2. Build APIs in 3 steps (copy, paste, change confs)
 
 * ```php_post```: A PHP-Based Postman (Send Web Requests). It uses JQuery AJAX. For sending requests on same server (Remove "same server" if you can overcome CORS)
