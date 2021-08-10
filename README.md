@@ -1,3 +1,6 @@
+# About to be Deleted
+>This repo will be splitted into small repos. php-API and php-POST will be created soon. After that, this repo will be deleted.
+
 # CodeBox
 Some useful codes that I've written for personal use. Anyone is allowed to play / use.
 
