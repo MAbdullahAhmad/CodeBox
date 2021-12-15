@@ -6,8 +6,9 @@ const error = message => {
   console.log(message);
 };
 const put_response = data => {
-  response_out_el.html(data);
-  response_raw_el.text(data);
+  console.log("data", data);
+  response_out_el.html(JSON.stringify(data));
+  response_raw_el.text(JSON.stringify(data));
 }
 // const put_response = data => {
 //   // response.text(data);
